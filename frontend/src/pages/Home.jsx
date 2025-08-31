@@ -43,7 +43,7 @@ function Home() {
   }
     
   }
-
+// speaking function 
   const speak=(text)=>{
     const utterence=new SpeechSynthesisUtterance(text)
     utterence.lang = 'hi-IN';
