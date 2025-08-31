@@ -32,9 +32,7 @@ It can:
 ---
 
 ## 🖥️ Demo
-🔗 [Live Demo](https://your-deployed-link-here)  
-📂 [Frontend Repo](#)  
-📂 [Backend Repo](#)  
+🔗 [Live Demo]([https://your-deployed-link-here](https://ai-assistant-o2rh.onrender.com))  
 
 ---
 
